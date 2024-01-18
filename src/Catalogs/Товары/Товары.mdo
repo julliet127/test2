@@ -31,10 +31,10 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <attributes uuid="8ae342bf-b83e-45b1-aad8-4dd8cb1b10af">
-    <name>РеквизитРазработчика2</name>
+    <name>РеквизитРазработчика22</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит разработчика2</value>
+      <value>Реквизит разработчика22</value>
     </synonym>
     <type>
       <types>String</types>
