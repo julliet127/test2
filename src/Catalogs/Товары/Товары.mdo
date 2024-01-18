@@ -49,10 +49,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="d550eda5-5ba9-4457-b4c1-d330765b3669">
-    <name>РеквизитРазработчика1</name>
+    <name>РеквизитРазработчика11</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит разработчика1</value>
+      <value>Реквизит разработчика11</value>
     </synonym>
     <type>
       <types>String</types>
